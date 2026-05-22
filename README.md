@@ -6,7 +6,7 @@
 ![No Laptop](https://img.shields.io/badge/No-Laptop-9d6fff?style=for-the-badge)
 ![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero-7c4dff?style=for-the-badge)
 
-**Live demo → [yuri-code-dot.github.io/tensoragram](https://yuri-code-dot.github.io/tensoragram)**
+**Live demo → [yuri-code-dot.github.io/tensoragram] https://yuri-code-dot.github.io/Tensoragram/**
 
 ---
 
